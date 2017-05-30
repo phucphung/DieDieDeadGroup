@@ -1,0 +1,1 @@
+this is the second file. And i now it is about how git track down the changes.
